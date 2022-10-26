@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="2zsaN4slZzMNaU00BVZF0tGg_bhRZ1FYLR_MLbbJ6YI" />
 [![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif)](https://fareehanoman.io)
 <h1 align="center">Hi 👋, I'm Fareeha Noman</h1>
 <h3 align="center">A Software Engineer to be</h3>
